@@ -1,5 +1,5 @@
 # testofh5
-A test repository of html5
+A test repository of html5 taro
 
 ## Something important
 * we need to know how to use github
