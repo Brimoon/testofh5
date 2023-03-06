@@ -7,3 +7,4 @@ A test repository of html5 taro
 * we need to konw how to make a CI/CD workflow by github action
 
 ## Test for remote resposiry
+* we need to konw
